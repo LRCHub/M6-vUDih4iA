@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Running In The Dark",
+  "base_artist": "MONKEY MAJIK",
+  "createdAt": "2025-12-11T13:38:34.062278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Smantx",
+      "has_synced": true,
+      "path": "select/01_Running_in_the_Dark_Smantx.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Pola",
+      "has_synced": true,
+      "path": "select/02_Running_in_the_Dark_Pola.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Pola & Bryson",
+      "has_synced": true,
+      "path": "select/03_Running_in_the_Dark_Pola_&_Bryson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Running In The Dark",
+      "artist": "Monkey Majik",
+      "has_synced": true,
+      "path": "select/04_Running_In_The_Dark_Monkey_Majik.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Psychic Twin",
+      "has_synced": true,
+      "path": "select/05_Running_in_the_Dark_Psychic_Twin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Moullinex",
+      "has_synced": true,
+      "path": "select/06_Running_in_the_Dark_Moullinex.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "RUNNING IN THE DARK",
+      "artist": "Vanessa",
+      "has_synced": false,
+      "path": "select/07_RUNNING_IN_THE_DARK_Vanessa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Running In The Dark",
+      "artist": "Isaak Wolf",
+      "has_synced": true,
+      "path": "select/08_Running_In_The_Dark_Isaak_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Running In The Dark",
+      "artist": "Oliver Michael",
+      "has_synced": true,
+      "path": "select/09_Running_In_The_Dark_Oliver_Michael.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Pola & Bryson",
+      "has_synced": false,
+      "path": "select/10_Running_in_the_Dark_Pola_&_Bryson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Running In The Dark",
+      "artist": "Anton Hagman",
+      "has_synced": true,
+      "path": "select/11_Running_In_The_Dark_Anton_Hagman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Moullinex & GPU Panic",
+      "has_synced": true,
+      "path": "select/12_Running_in_the_Dark_Moullinex_&_GPU_Panic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Running in the Dark",
+      "artist": "Pola & Bryson feat. Royall, Ruth",
+      "has_synced": true,
+      "path": "select/13_Running_in_the_Dark_Pola_&_Bryson_feat._Royall,_Ruth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Running in the Dark (feat. Ruth Royall)",
+      "artist": "Pola & Bryson",
+      "has_synced": true,
+      "path": "select/14_Running_in_the_Dark_(feat._Ruth_Royall)_Pola_&_Bryson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Running In The Dark - Image Song for Arknights mobile game",
+      "artist": "Monkey Majik",
+      "has_synced": false,
+      "path": "select/pl_01_Running_In_The_Dark_-_Image_Song_for_Arknights_mobile_game_Monkey_Majik.txt"
+    }
+  ]
+}
