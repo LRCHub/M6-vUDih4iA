@@ -1,0 +1,56 @@
+# MONKEY MAJIK – Running In The Dark
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.97] There's no time for what was left behind
+[00:23.46] It's a maiden voyage after all
+[00:38.46] 
+[00:31.37] All the pretty sinners, all the medal winners
+[00:35.17] Overachievers aiming for their prize
+[00:39.02] I can feel it coming
+[00:40.81] Don't know why you're running in the dark
+[01:01.31] 
+[00:44.75] She said, "I'm looking everywhere, but I can't find you
+[00:50.24] I'm getting closer like it's right in front of me
+[00:54.08] Yeah, I can feel you, but I cannot see you
+[00:57.45] I'm reaching out, reaching out"
+[01:12.95] 
+[01:01.69] I could be dreaming, but I feel so wide awake
+[01:05.42] A secret yearning that is deep inside of me
+[01:09.38] Yeah, I can feel you, but I cannot see you
+[01:12.93] I'm reaching out, reaching out
+[01:27.93] 
+[01:32.68] Yeah, I'm moving forward to my own beat once again
+[01:40.15] Where I can feel it calling after me
+[01:58.15] 
+[01:47.83] All the pretty sinners, all the medal winners
+[01:51.87] Overachievers aiming for their prize
+[01:55.87] I can feel it coming
+[01:57.86] Don't know why you're running in the dark
+[02:18.36] 
+[02:01.36] She said, "I'm looking everywhere, but I can't find you
+[02:06.96] I'm getting closer like it's right in front of me
+[02:10.85] Yeah, I can feel you, but I cannot see you
+[02:14.26] I'm reaching out, reaching out"
+[02:29.76] 
+[02:18.52] I could be dreaming, but I feel so wide awake
+[02:22.39] A secret yearning that is deep inside of me
+[02:26.23] Yeah, I can feel you but I cannot see you
+[02:29.55] I'm reaching out, reaching out
+[02:44.55] 
+[02:33.74] You used to tell me that you wanted us to run away
+[02:37.88] Didn't matter, no, 'cause we'd be okay
+[02:41.83] Even now that we are miles apart, so far away
+[02:45.32] You're a part of me, yeah, you light my way
+[03:06.82] 
+[02:49.24] I'm looking everywhere, but I can't find you
+[02:53.10] I'm getting closer like it's right in front of me
+[02:57.08] Yeah, I can feel you, but I cannot see you
+[03:00.47] I'm reaching out, reaching out
+[03:15.47] 
+[03:04.52] I could be dreaming, but I feel so wide awake
+[03:08.43] A secret yearning that is deep inside of me
+[03:12.32] Yeah, I can feel you, but I cannot see you
+[03:15.71] I'm reaching out, reaching out
+```
